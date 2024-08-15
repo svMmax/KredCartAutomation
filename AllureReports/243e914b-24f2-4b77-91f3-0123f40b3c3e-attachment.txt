@@ -1,0 +1,6 @@
+[32mINFO    [0m Test_CredKart_Login:test_Credkart_Login01.py:29 Testcase test_CredKart_url_001 is started
+[32mINFO    [0m Test_CredKart_Login:test_Credkart_Login01.py:30 Opening browser
+[32mINFO    [0m Test_CredKart_Login:test_Credkart_Login01.py:32 Check Page Title
+[32mINFO    [0m Test_CredKart_Login:test_Credkart_Login01.py:34 Taking Screenshot
+[32mINFO    [0m Test_CredKart_Login:test_Credkart_Login01.py:37 Testcase test_CredKart_url_001 is Pass
+[32mINFO    [0m Test_CredKart_Login:test_Credkart_Login01.py:44 Testcase test_CredKart_url_001 is Completed

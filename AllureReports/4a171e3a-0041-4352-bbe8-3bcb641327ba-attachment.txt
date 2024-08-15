@@ -1,0 +1,10 @@
+[32mINFO    [0m Test_CredKart_Login:test_Credkart_Login01.py:50 Testcase test_user_login_002 is started
+[32mINFO    [0m Test_CredKart_Login:test_Credkart_Login01.py:51 Opening browser
+[32mINFO    [0m Test_CredKart_Login:test_Credkart_Login01.py:54 Click On login Link
+[32mINFO    [0m Test_CredKart_Login:test_Credkart_Login01.py:56 Enter Email2may2024@gmail.com
+[32mINFO    [0m Test_CredKart_Login:test_Credkart_Login01.py:58 Enter PasswordTest@123
+[32mINFO    [0m Test_CredKart_Login:test_Credkart_Login01.py:60 Click Login Button
+[32mINFO    [0m Test_CredKart_Login:test_Credkart_Login01.py:62 Verify Login Stauts
+[32mINFO    [0m Test_CredKart_Login:test_Credkart_Login01.py:64 Taking screenshot
+[32mINFO    [0m Test_CredKart_Login:test_Credkart_Login01.py:66 Testcase test_user_login_002 is Pass
+[32mINFO    [0m Test_CredKart_Login:test_Credkart_Login01.py:73 Testcase test_user_login_002 is Completed

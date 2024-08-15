@@ -1,0 +1,11 @@
+[32mINFO    [0m Test_CredKart_Registration:test_Credkart_Registration04.py:13 Testcase test_CredKart_Registration04 is started
+[32mINFO    [0m Test_CredKart_Registration:test_Credkart_Registration04.py:14 Opening browser
+[32mINFO    [0m Test_CredKart_Registration:test_Credkart_Registration04.py:17 Click On Register Link
+[32mINFO    [0m Test_CredKart_Registration:test_Credkart_Registration04.py:19 Enter Name
+[32mINFO    [0m Test_CredKart_Registration:test_Credkart_Registration04.py:21 Enter Email
+[32mINFO    [0m Test_CredKart_Registration:test_Credkart_Registration04.py:23 Enter Password
+[32mINFO    [0m Test_CredKart_Registration:test_Credkart_Registration04.py:25 Enter Confirm Password
+[32mINFO    [0m Test_CredKart_Registration:test_Credkart_Registration04.py:27 Click register button
+[32mINFO    [0m Test_CredKart_Registration:test_Credkart_Registration04.py:30 Verifying the registration stauts
+[32mINFO    [0m Test_CredKart_Registration:test_Credkart_Registration04.py:37 Testcase test_CredKart_Registration04 is Fail
+[32mINFO    [0m Test_CredKart_Registration:test_Credkart_Registration04.py:38 Taking screenshot

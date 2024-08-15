@@ -1,0 +1,3 @@
+Test Run - Browser Chrome
+Number of rows in Login data excel --> 5
+Loop Number --> 2
